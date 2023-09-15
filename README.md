@@ -50,5 +50,3 @@ dan memiliki kemauan untuk berkembang.
 
 
 [webdev]: https://github.com/MuhamadErik
-MuhammadErik
-About Me
